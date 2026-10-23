@@ -2,7 +2,7 @@
 
 **'👨‍💻 Desenvolvedor FullStack'**
 
-Me chamo Gabriel Gonçalves Lempek, tenho 26 anos e sou natural do Rio Grande do Sul. Concluí meu ensino médio no Liceu em SC. Atualmente estou cursando Gestão da Tecnologia da Informação e logo depois vou cursar Análise e Desenvolvimento de Sistemas na Uniasselvi. Gosto bastante da área, sempre tive contato desde muito cedo, e meu grande focu é ser um bom profissional com Cyber-Segurança. 
+💻 Estudante de Gestão da Tecnologia da Informação, apaixonado por tecnologia e movido pela curiosidade de entender como tudo funciona. Construindo meu caminho na programação e na Cybersecurity, com dedicação, aprendizado contínuo e o objetivo de me tornar um profissional capaz de transformar conhecimento em soluções e contribuir para um mundo digital mais seguro. 🔐🚀 
 
 <p align="left">
     </a> 
